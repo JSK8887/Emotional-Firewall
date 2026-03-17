@@ -64,4 +64,4 @@ Additional Tools: Anti-Gravity (for design/AI experimentation or prototyping)
 
 ✅ One-line explanation for viva:
 
-“Emotional Firewall detects phishing attacks by analyzing emotional manipulation in messages using NLP and machine learning, then warns users before they fall victim to social engineering.”
+“Emotional Firewall detects phishing attacks by analyzing emotional manipulation in messages using NLP and machine learning, then warns users before they fall victim to social engineering.”  
